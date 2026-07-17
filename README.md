@@ -325,7 +325,8 @@ weather-temperature-prediction/
 ├── weather_prediction_model.pkl
 ├── README.md
 ├── requirements.txt
-├── predict.py
+├── app.py
+├── .gitignore
 └── assets/
     ├── feature_importance.png
     ├── correlation_heatmap.png
